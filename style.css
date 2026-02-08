@@ -20,12 +20,12 @@ body {
     background: linear-gradient(90deg, #3a1c71, #d76d77, #ffaf7b);
 }
 
-.profile-pic {
+.photo-pic {
     text-align: center;
     margin-top: -45px;
 }
 
-.profile-pic img {
+.photo-pic img {
     width: 90px;
     height: 90px;
     border-radius: 50%;
@@ -94,3 +94,4 @@ button:hover {
     color: #555;
     padding: 15px;
 }
+
